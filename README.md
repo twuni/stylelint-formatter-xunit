@@ -17,7 +17,7 @@ $ yarn add --dev stylelint-formatter-xunit
 ### NPM
 
 ```
-$ npm install --dev stylelint-formatter-xunit
+$ npm install --save-dev stylelint-formatter-xunit
 ```
 
 ## Usage
