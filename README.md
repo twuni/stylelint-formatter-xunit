@@ -12,6 +12,7 @@ The implementation is small, lightweight, and dependency-free.
 
 ```
 $ yarn add --dev stylelint-formatter-xunit
+```
 
 ### NPM
 
