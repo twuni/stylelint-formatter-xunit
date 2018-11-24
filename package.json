@@ -1,0 +1,7 @@
+{
+  "name": "stylelint-formatter-xunit",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Devin Canterberry <devin@twuni.org>",
+  "license": "MIT"
+}
