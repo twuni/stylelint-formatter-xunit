@@ -41,3 +41,5 @@ stylelint.lint({
   formatter: require('stylelint-formatter-xunit')
 }).then(({ output }) => console.log(output));
 ```
+
+[1]: https://stylelint.io/
